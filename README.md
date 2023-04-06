@@ -26,5 +26,7 @@ overall we will try to figure out of what benefit are smart watches tracker and 
 - Install the library listed in the requirements.txt
 - Import the librairies 
 - Import my cvs files
-- Run the notebook cells to load the data and generate the plots
+- Run the notebook cells to load the data
+- Analyse the data set
+- Generate the plots
 - Review the results
