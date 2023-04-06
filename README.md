@@ -6,25 +6,25 @@ we will also be working in visual studio code
 overall we will try to figure out of what benefit are smart watches tracker and what can be done to improve customer satisfaction
 
 # PREREQUISITES
-Python 3.9 or higher
-Visual Studio Code
-Jupyter
-Matplotlib
-Pandas
-Seaborn
+- Python 3.9 or higher
+- Visual Studio Code
+- Jupyter
+- Matplotlib
+- Pandas
+- Seaborn
 
 # PROJECT REQUIREMENTS
-Reading a data file from a CVS file
-Describing the shape of a data set
-Dropping rows with no data
-Analysing the data using different python built in functions
-Markdown files in jupyter
-Visualisation in seaborn
+- Reading a data file from a CVS file
+- Describing the shape of a data set
+- Dropping rows with no data
+- Analysing the data using different python built in functions
+- Markdown files in jupyter
+- Visualisation in seaborn
 
 # STEPS
-Create a virtual environment
-Install the library listed in the requirements.txt
-Import the librairies 
-Import my cvs files
-Run the notebook cells to load the data and generate the plots
-Review the results
+- Create a virtual environment
+- Install the library listed in the requirements.txt
+- Import the librairies 
+- Import my cvs files
+- Run the notebook cells to load the data and generate the plots
+- Review the results
